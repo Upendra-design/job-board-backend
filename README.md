@@ -163,7 +163,7 @@ Example
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/jobboard
 spring.datasource.username=root
-spring.datasource.password=yourpassword
+spring.datasource.password=password
 ```
 
 ---
